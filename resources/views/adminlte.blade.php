@@ -76,6 +76,22 @@
                                 <!-- /.tab-content -->
                             </div>
                             <!-- nav-tabs-custom -->
+                        <wizard>
+                            <wizard-item>
+
+                            </wizard-item>
+
+                            <wizard-item>
+
+                            </wizard-item>
+
+                            <wizard-item>
+
+                            </wizard-item>
+
+                        </wizard>
+
+
                     </div>
                     <!-- /.box-body -->
                 </div>
